@@ -1,5 +1,6 @@
 body {
   font-family: sans-serif;
+  background-color: peachpuff;
 }
 
 a {
@@ -18,4 +19,16 @@ nav a {
 form div {
   margin: 1em;
   display: inline-block;
+}
+
+.prod-card {
+  width: 25%;
+  height: 80%;
+  padding: 3%;
+  margin-top: 7%;
+}
+
+.fa,
+.fas {
+  margin: 3%;
 }
